@@ -1,7 +1,7 @@
 <!-- _coverpage.md -->
 
 
-![logo](../static/img/logo-cn.png ':size=200x70')
+![logo](/static/img/logo-cn.png ':size=200x70')
 
 # 耗子 <small>2.0</small>     
 
