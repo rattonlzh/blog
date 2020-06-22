@@ -1,11 +1,11 @@
 <!-- _coverpage.md -->
 
 
-![logo](static/img/logo-en.png ':size=200x70')
+![logo](../static/img/logo-cn.png ':size=200x70')
 
-# ratton <small>2.0</small>
+# 耗子 <small>2.0</small>     
 
-> a lazy code farmer.
+> 一个懒得折腾的码农.
 
 * github: https://github.com/rattonlzh
 * gitee: https://gitee.com/ziphold
