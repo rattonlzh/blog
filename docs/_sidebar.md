@@ -1,8 +1,13 @@
-<!-- _navbar.md -->
-
-- Chapter 1
-    - [Introduction](/readme)
-- Friendly Link
-    - [Johnny的小屋](https://19990914.xyz/)
-
-
+- [首页](/README)
+- [指南](/guide)
+- 水文专区
+- 传送门专区
+    - [Typora使用教程](/portal/typora.md)
+- 教程专区
+    - [Latex写作快速入坑](/latex-learning)
+- 经验专区
+- 思维导图专区
+- 科普专区
+- 文献笔记专区
+- 模板专区
+- 安利专区
