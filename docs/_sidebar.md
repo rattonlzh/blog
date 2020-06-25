@@ -2,10 +2,12 @@
 - [指南](/guide)
 - 水文专区
 - 传送门专区
-    - [Typora使用教程](/portal/typora.md)
+    - [Typora使用教程](/portal/typora)
 - 教程专区
     - [Latex写作快速入坑](/latex-learning)
 - 经验专区
+- 总结专区
+    - [uml软件建模总结](/conclusion/uml)
 - 思维导图专区
 - 科普专区
 - 文献笔记专区
