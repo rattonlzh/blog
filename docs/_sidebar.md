@@ -4,10 +4,13 @@
 - 传送门专区
     - [Typora使用教程](/portal/typora)
 - 教程专区
-    - [Latex写作快速入坑](/latex-learning)
+    - [Latex写作快速入坑](/tutorial/latex-learning)
 - 经验专区
 - 总结专区
     - [uml软件建模总结](/conclusion/uml)
+    - [数据挖掘总结](/conclusion/datamining)
+    - [大数据软件工程总结](/conclusion/bigdata)
+    - [人工智能总结](/conclusion/ai)
 - 思维导图专区
 - 科普专区
 - 文献笔记专区
