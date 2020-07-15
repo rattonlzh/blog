@@ -3,14 +3,17 @@
 - 水文专区
 - 传送门专区
     - [Typora使用教程](/portal/typora)
+    - [面向对象开发技术专辑](/portal/object-oriented)
 - 教程专区
     - [Latex写作快速入坑](/tutorial/latex-learning)
+    - [git新手友好教程](/tutorial/git)
 - 经验专区
 - 总结专区
     - [uml软件建模总结](/conclusion/uml)
     - [数据挖掘总结](/conclusion/datamining)
     - [大数据软件工程总结](/conclusion/bigdata)
     - [人工智能总结](/conclusion/ai)
+    - [java开发总结](/conclusion/java)
 - 思维导图专区
 - 科普专区
 - 文献笔记专区
